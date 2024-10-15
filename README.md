@@ -1,4 +1,4 @@
-Olá! Eu sou [Seu Nome] 👋
+Olá! Eu sou Eduardo Giannini 👋
 Back-end Developer | Focado em C# e APIs 🚀
 <p align="left"> <a href="https://github.com/dugiannini"> </a> </p>
 
