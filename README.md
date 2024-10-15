@@ -1,4 +1,4 @@
-Olá! Eu sou Eduardo Giannini 👋
+<h1>Olá! Eu sou <strong> Eduardo Giannini </strong> 👋</h1> <br> 
 Back-end Developer | Focado em C# e APIs 🚀
 <p align="left"> <a href="https://github.com/dugiannini"> </a> </p>
 
@@ -23,9 +23,4 @@ DDD (Domain-Driven Design) <br>
 Desenvolvimento com Azure e DevOps <br> 
 
 📫 Como me encontrar
-
 📧 E-mail: dudugiannini@gmail.com
-
-📊 Estatísticas do GitHub
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dugiannini&show_icons=true&theme=radical" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugiannini&layout=compact&theme=radical" height="150"/> </p>
-
