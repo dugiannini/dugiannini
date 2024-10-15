@@ -22,5 +22,5 @@ CQRS e MediatR para melhorar escalabilidade <br>
 DDD (Domain-Driven Design) <br> 
 Desenvolvimento com Azure e DevOps <br> 
 
-📫 Como me encontrar
+📫 Como me encontrar <br> 
 📧 E-mail: dudugiannini@gmail.com
