@@ -1,26 +1,18 @@
-<h1>Olá! Eu sou <strong> Eduardo Giannini </strong> 👋</h1> <br> 
-Back-end Developer | Focado em C# e APIs 🚀
-<p align="left"> <a href="https://github.com/dugiannini"> </a> </p>
+<h1>Olá! Eu sou Eduardo Giannini 👋</h1> <br> 
+Desenvolvedor Back-end | C# | APIs 🚀
 
-💻 Sobre mim
+<h2>Sobre mim</h2> 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+💼 Estagiário administrativo no Paraná Banco<br>
+🔍 Buscando oportunidades na área de desenvolvimento
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas <br> 
-🧑‍💼 Atualmente: Estagiário administrativo no Paraná Banco <br>
-🔍 Buscando uma oportunidade como Desenvolvedor Back-end <br> 
-⚡ Curioso por Clean Code, boas práticas e arquitetura de software
+<h2>Tecnologias</h2>
+C# (.NET, ASP.NET Core)<br>
+MongoDB, SQL Server<br>
+Docker, Git<br>
+APIs REST 
 
-🛠️ Tecnologias e Ferramentas
+<h2>Contato</h2>
+📧 dudugiannini@gmail.com
+🌐 linkedin.com/in/eduardo-giannini/
 
-Linguagem principal: C# (.NET, ASP.NET Core) <br> 
-Banco de Dados: MongoDB, SQL Server <br> 
-Outras Tecnologias: Docker, Git, APIs REST <br> 
-Metodologias: Kanban/Scrum
-
-🌱 O que estou aprendendo agora?
-
-CQRS e MediatR para melhorar escalabilidade <br> 
-DDD (Domain-Driven Design) <br> 
-Desenvolvimento com Azure e DevOps <br> 
-
-📫 Como me encontrar <br> 
-📧 E-mail: dudugiannini@gmail.com
