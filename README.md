@@ -1,4 +1,5 @@
-<h1>Olá! Eu sou Eduardo Giannini 👋</h1> <br> 
+<h1>Olá! Eu sou Eduardo Giannini 👋</h1> 
+
 Desenvolvedor Back-end | C# | APIs 🚀
 
 <h2>Sobre mim</h2> 
@@ -13,6 +14,6 @@ Docker, Git<br>
 APIs REST 
 
 <h2>Contato</h2>
-📧 dudugiannini@gmail.com
+📧 dudugiannini@gmail.com<br>
 🌐 linkedin.com/in/eduardo-giannini/
 
