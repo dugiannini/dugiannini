@@ -15,5 +15,5 @@ Desenvolvedor Back-end | C# | APIs 🚀
 
 <h2>Contato</h2>
 📧 dudugiannini@gmail.com<br>
-🌐 linkedin.com/in/eduardo-giannini/
+🌐 [Linkedin](https://www.linkedin.com/in/eduardo-giannini/)
 
