@@ -4,23 +4,23 @@ Back-end Developer | Focado em C# e APIs 🚀
 
 💻 Sobre mim
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas
-🧑‍💼 Atualmente: Estagiário administrativo no Paraná Banco
-🔍 Buscando uma oportunidade como Desenvolvedor Back-end
+🎓 Graduando em Análise e Desenvolvimento de Sistemas <br> 
+🧑‍💼 Atualmente: Estagiário administrativo no Paraná Banco <br>
+🔍 Buscando uma oportunidade como Desenvolvedor Back-end <br> 
 ⚡ Curioso por Clean Code, boas práticas e arquitetura de software
 
 🛠️ Tecnologias e Ferramentas
 
-Linguagem principal: C# (.NET, ASP.NET Core)
-Banco de Dados: MongoDB, SQL Server
-Outras Tecnologias: Docker, Git, APIs REST
+Linguagem principal: C# (.NET, ASP.NET Core) <br> 
+Banco de Dados: MongoDB, SQL Server <br> 
+Outras Tecnologias: Docker, Git, APIs REST <br> 
 Metodologias: Kanban/Scrum
 
 🌱 O que estou aprendendo agora?
 
-CQRS e MediatR para melhorar escalabilidade
-DDD (Domain-Driven Design)
-Desenvolvimento com Azure e DevOps
+CQRS e MediatR para melhorar escalabilidade <br> 
+DDD (Domain-Driven Design) <br> 
+Desenvolvimento com Azure e DevOps <br> 
 
 📫 Como me encontrar
 
