@@ -4,7 +4,7 @@ Desenvolvedor Back-end | C# | APIs 🚀
 
 <h2>Sobre mim</h2> 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
-💼 Estagiário administrativo no Paraná Banco<br>
+💼 Estagiário no Paraná Banco<br>
 🔍 Buscando oportunidades na área de desenvolvimento
 
 <h2>Tecnologias</h2>
